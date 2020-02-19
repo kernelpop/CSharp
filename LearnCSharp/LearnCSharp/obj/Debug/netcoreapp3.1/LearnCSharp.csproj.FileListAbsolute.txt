@@ -1,0 +1,11 @@
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/bin/Debug/netcoreapp3.1/LearnCSharp
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/bin/Debug/netcoreapp3.1/LearnCSharp.deps.json
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/bin/Debug/netcoreapp3.1/LearnCSharp.runtimeconfig.json
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/bin/Debug/netcoreapp3.1/LearnCSharp.runtimeconfig.dev.json
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/bin/Debug/netcoreapp3.1/LearnCSharp.dll
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/bin/Debug/netcoreapp3.1/LearnCSharp.pdb
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/obj/Debug/netcoreapp3.1/LearnCSharp.csprojAssemblyReference.cache
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/obj/Debug/netcoreapp3.1/LearnCSharp.AssemblyInfoInputs.cache
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/obj/Debug/netcoreapp3.1/LearnCSharp.AssemblyInfo.cs
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/obj/Debug/netcoreapp3.1/LearnCSharp.dll
+/Users/dtf/Desktop/CSharpModules/LearnCSharp/LearnCSharp/obj/Debug/netcoreapp3.1/LearnCSharp.pdb
